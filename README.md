@@ -95,14 +95,15 @@ _Reception Teacher_
 - 
 
 #### Makers Academy (November 2022 - March 2023)
-- Developed and tested SQL database-backed web applications using Ruby, Sinatra and RSpec.
-- Gained proficiency in JavaScript asynchronous programming with pair-programming on external APIs.
-- Developed a strong understanding of software engineering best practices, including agile methodologies such as sprints through the Jira , code reviews for sharing knowledge, OOP forward design decisions and TDD for well written programs.
-- Experience in node.js, Express and MongoDB to create API backends with a React frontend for group projects which required EQ to understand differences in working styles and ideas.
+At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities:
+• Self organizing my learning process, time-boxing tasks to learn efficiently.
+• Use Agile methodologies to work effectively in a team: daily pair programming, stand-ups, and sprint planning for bigger projects.
+• Holistically collaborate with the other team members, using GitHub, code reviews and constructive feedback session with respectful communication.
+• Understand project requirements and user stories, define MVP’s features, break features in smaller tasks to easily accom- plish them.
+• Apply design patterns and coding best practices: TDD, OOP principles to create clear, simple code and well-tested applications.
 
-
-#### University of West Attica (September  - December )
-- BA in 'Early Childhood Education'
+#### University of West Attica (October 2010  - November 2015 )
+- BA (Hons.) Early Childhood Education
 - 
 <!--
 **nadiangelica/nadiangelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
