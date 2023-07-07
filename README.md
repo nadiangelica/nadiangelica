@@ -93,12 +93,12 @@ _Reception Teacher_
 #### Certified Scrum Master(CSM Certificate) (June 2023)
 
 #### Makers Academy (November 2022 - March 2023)
--At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities:
+-At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities.
 -Self organizing my learning process, time-boxing tasks to learn efficiently.
 -Use Agile methodologies to work effectively in a team: daily pair programming, stand-ups, and sprint planning for bigger projects.
 -Holistically collaborate with the other team members, using GitHub, code reviews and constructive feedback session with respectful communication.
 - Understand project requirements and user stories, define MVP’s features, break features in smaller tasks to easily accom- plish them.
-- Apply design patterns and coding best practices: TDD, OOP principles to create clear, simple code and well-tested applications.
+- Apply design patterns and coding best practices, such us TDD, OOP principles to create clear, simple code and well-tested applications.
 
 #### University of West Attica (October 2010  - November 2015 )
 - BSc (Hons) Early Childhood Education
