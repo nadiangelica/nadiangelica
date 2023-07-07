@@ -74,27 +74,27 @@ Additionally, my background in education has honed my skills and passion for pro
 
 ## <a name="experience">💼 Work Experience</a>
 
-**NewLook Windows** (November 2018 - July 2020)
+**Bedfont Primary School** (November 2018 - July 2020)
 <br>
-_Assistant manager_
+_Reception Teacher
 
-- Developed a data analysis spreadsheet to deliver key insights and KPI analysis, requiring strong communication and collaboration skills to effectively change the workflow of other colleagues to the new system. Utilized critical thinking and problem-solving skills, resulting in a saving of £300/month. 
-- Assembled 3 flowsheets of company processes demonstrating excellent organizational skills and attention to detail. Led the implementation of new processes, displaying strong leadership and team management skills to ensure all flows were efficient which led to a 30-minute-per-day time saving for one employee.
+- 
+- 
 
-**BPP Tech** (August 2019)
+**Edison Primary School** (August 2019)
 <br>
-_Staff Engineer Intern_
+_Reception Teacher_
 
-- As part of a team, conducted a thorough investigation into four different carbon capture methods and performed numerical analysis to determine the optimal approach for our desired purpose. Took a role in numerical analysis on the capture methods and generating engineering drawings for potential product designs, showcasing attention to detail and engineering abilities.
+- 
 
-- To develop the customer engagement aspects of the project, created informative materials on carbon dioxide and its impact on health and the economy. Demonstrating effective communication skills and ability to convey complex information to a lay audience. Throughout the project, consistently displayed strong teamwork skills and the ability to collaborate effectively in a multidisciplinary environment.
+- 
 
 
 ## <a name="education">📚 Education</a>
 
-#### Certified Scrum Master(CSM Certificate) (November 2022 - March 2023)
-- Developed and tested SQL database-backed web applications using Ruby, Sinatra and RSpec.
-- Gained proficiency in JavaScript asynchronous programming with pair-programming on external APIs.
+#### Certified Scrum Master(CSM Certificate) (June 2023)
+- 
+- 
 
 #### Makers Academy (November 2022 - March 2023)
 - Developed and tested SQL database-backed web applications using Ruby, Sinatra and RSpec.
@@ -103,9 +103,9 @@ _Staff Engineer Intern_
 - Experience in node.js, Express and MongoDB to create API backends with a React frontend for group projects which required EQ to understand differences in working styles and ideas.
 
 
-#### University of West Attica (September 2014 - July 2018)
+#### University of West Attica (September  - December )
 - BA in 'Early Childhood Education'
-- Achieved a 2.1 
+- 
 <!--
 **nadiangelica/nadiangelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
