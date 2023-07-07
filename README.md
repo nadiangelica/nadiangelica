@@ -72,12 +72,16 @@ Additionally, my background in education has honed my skills and passion for pro
 
 ## <a name="experience">💼 Work Experience</a>
 
-**Bedfont Primary School** (November 2018 - July 2020)
+**Bedfont Primary School** (September 2020 - August 2022)
 <br>
-_Reception Teacher
+_Reception Teacher_
 
-- 
-- 
+- Leader of the Maths NCETM (National Centre for Excellence in the Teaching of Mathematics) program for the EYFS.
+- Make effective use of assessment information on pupils’ attainment and progress when teaching and in planning future learning.
+- Responsible for building up Learning Journals for each child of the class. Maintain good organisation and informative observations in children’s Learning Writing Journals, so that they offer a clear record of pupils’ progress and the next steps in their learning.
+- Planning rich and stimulating learning activities that achieve good progression in pupils’ understanding
+- Creating Individual Education Plans (IEP) in order to support children with learning difficulties
+- Participating in any relevant meetings/professional development opportunities at the school.
 
 **Edison Primary School** (August 2019)
 <br>
