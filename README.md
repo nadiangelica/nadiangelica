@@ -40,8 +40,11 @@ Additionally, my background in education has honed my skills and passion for pro
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Enaidle**               | Makers academy final project. Enaidle is a user-friendly web application designed to facilitate volunteering and enable organisations to effectively advertise their needs. | MongoDB, Express, React, Node.js, Jest, Cypress, Bootsrap|
-| **MakersBnB** | Makers Academy group project, a webapp to allow home owners to offer up there space to short term renters and users to see those spaces to rent. | Ruby, SQL, Sinatra, HTML, CSS|
+
+| **Chitter**   |Built Chitter, a Twitter clone, independently after graduation, showcasing my ability to conceptualize, design, and develop a comprehensive web application with user authentication, post creation, editing, and deletion functionalities. | Ruby,SQL, Postman, TablePlus, HTML, CSS, Bootsrap 
+| **Enaidle**   | Makers academy final project. Enaidle is a user-friendly web application designed to facilitate volunteering and enable organisations to effectively advertise their needs. | MongoDB, Express, React, Node.js, Jest, Cypress, Bootsrap|
+| **Acebook** | Makers Academy group project. A social media web app that allows users to create an account, authenticate, create posts and comment on posts. |Javascript, Node.js, Jest, Express, MongoDB, Mongoose, React, Cypress, HTML, CSS, Git |
+| **MakersBnB** | Makers Academy group project, a webapp to allow home owners to offer up there space to short term renters and users to see those spaces to rent. | Ruby, SQL, Sinatra, HTML, CSS, Postman, TablePlus|
 ## <a name="tech-stack">🤖 Tech stack</a>
 
 <div align="center">
