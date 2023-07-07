@@ -83,13 +83,20 @@ _Reception Teacher_
 - Creating Individual Education Plans (IEP) in order to support children with learning difficulties
 - Participating in any relevant meetings/professional development opportunities at the school.
 
-**Edison Primary School** (August 2019)
+**Edison Primary School** (September 2019 - July 2020)
 <br>
 _Reception Teacher_
 
-- 
+-Regularly marking, recording, assessing and reporting on the attainment and progress of pupils through observations and the school’s assessment processes to plan next steps for learning.
+- Always making sure that, when possible, the planning for the seven areas of learning are linked to Science.
+- Creating an engaging and challenging indoor and outdoor learning environment that always complies with the characteristics of effective
+learning outlined in the EYFS curriculum.
+- Conceived, planned and implemented a music and singing after school club taking place once a week for a whole term, for the children to learn
+about music, rhythms, songs around the world.
+- Creating an inclusive environment and plan for one SEN child and many EAL children.
+- Participating in the school’s performance management programme and development plan.
 
-- 
+
 
 
 ## <a name="education">📚 Education</a>
