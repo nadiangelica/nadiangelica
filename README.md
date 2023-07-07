@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 <div align="center" >
   <img src="images/banner.png"  alt="Banner">
   
@@ -24,13 +25,10 @@ Additionally, my background in education has honed my skills and passion for pro
 <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/nadia-kochilas-91495b131"><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
       </td>
       <td align="center">
         <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
-      </td>
-      <td align="center">
-        <a href="https://codepen.io/charlam"><img src="images/codepen.png" width="100" alt="Codepen"></a>
       </td>
     </tr>
     <tr>
@@ -78,20 +76,20 @@ Additionally, my background in education has honed my skills and passion for pro
 
 ## <a name="experience">💼 Work Experience</a>
 
-**Ns** (November 2018 - July 2020)
+**NewLook Windows** (November 2018 - July 2020)
 <br>
 _Assistant manager_
 
-- 
-- 
+- Developed a data analysis spreadsheet to deliver key insights and KPI analysis, requiring strong communication and collaboration skills to effectively change the workflow of other colleagues to the new system. Utilized critical thinking and problem-solving skills, resulting in a saving of £300/month. 
+- Assembled 3 flowsheets of company processes demonstrating excellent organizational skills and attention to detail. Led the implementation of new processes, displaying strong leadership and team management skills to ensure all flows were efficient which led to a 30-minute-per-day time saving for one employee.
 
-**B** (August 2019)
+**BPP Tech** (August 2019)
 <br>
 _Staff Engineer Intern_
 
-- 
+- As part of a team, conducted a thorough investigation into four different carbon capture methods and performed numerical analysis to determine the optimal approach for our desired purpose. Took a role in numerical analysis on the capture methods and generating engineering drawings for potential product designs, showcasing attention to detail and engineering abilities.
 
-- 
+- To develop the customer engagement aspects of the project, created informative materials on carbon dioxide and its impact on health and the economy. Demonstrating effective communication skills and ability to convey complex information to a lay audience. Throughout the project, consistently displayed strong teamwork skills and the ability to collaborate effectively in a multidisciplinary environment.
 
 
 ## <a name="education">📚 Education</a>
