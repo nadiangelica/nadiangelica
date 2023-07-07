@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-
-
-<div align="center" >
-  <img src="images/banner.png"  alt="Banner">
   
  ### [About me](#about-me) | [Links](#links) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies)
 </div>
