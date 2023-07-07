@@ -103,7 +103,7 @@ _Year 1 Teaching Assistant_
 
 - Co-taught Phonics sessions to increase children’s segmenting and blending skills.
 - Often working one-to-one supporting a child with additional needs.
-- Guided reading sessions with different ability groups of children – asking effective questions to increase their inference and comprehension skills.
+- Guided reading sessions with children of various proficiency levels – asking effective questions to enhance their inference and comprehension skills.
 - Led intervention sessions with the children to support with Maths, Reading and Literacy.
 - Marking homework books, changing books and setting new homework tasks.
 
@@ -114,7 +114,7 @@ _Early Years Teaching Assistant_
 - Supporting the Room Leader and Key workers of the classroom.
 - Paying attention and supporting children’s well-being and development.
 
-**Miniversity** (September 2017 - July 2018)
+**Miniversity Nursery** (September 2017 - July 2018)
 <br>
 _Early Years English Teacher_
 
@@ -123,7 +123,7 @@ _Early Years English Teacher_
 - Meeting regularly with parents. 
 - Planning a stimulating and rewarding variety of lessons.
   
-**Argiri-Laimou** (April 2015 - July 2017)
+**Argiri-Laimou Nursery** (April 2015 - July 2017)
 <br>
 _Early Years Teacher_
 - Teaching assistant during my apprenticeship for under 4 year children.
