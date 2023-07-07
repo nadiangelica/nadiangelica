@@ -10,7 +10,7 @@
 <br>
 
 ## <a name="about-me">About me!</a>
-With a strong background in education and a genuine passion for learning, I embarked on a transformative journey that led me to the world of software development. For seven years, I dedicated myself to teaching and shaping young minds. However, driven by a desire for personal growth and a thirst for new challenges, I decided to explore the exciting realm of coding. I enrolled in a renowned bootcamp, Makers Academy, where I immersed myself in various programming languages, frameworks, and tech tools. The experience allowed me to combine my love for learning with my newfound technical skills, paving the way for an exciting future.
+With a strong background in Early Chilhood Education and a genuine passion for learning, I embarked on a transformative journey that led me to the world of software development. For seven years, I dedicated myself to teaching and shaping young minds. However, driven by a desire for personal growth and a thirst for new challenges, I decided to explore the exciting realm of coding. I enrolled in a renowned bootcamp, Makers Academy, where I immersed myself in various programming languages, frameworks, and tech tools. The experience allowed me to combine my love for learning with my newfound technical skills, paving the way for an exciting future.
 
 As a former teacher, I naturally gravitated towards supporting my fellow bootcamp participants, finding immense satisfaction in helping others overcome challenges and sharing knowledge. Witnessing the growth and progress of my peers fuelled my passion for team dynamics and inspired me to explore roles where I could contribute to the success of a tech team. This realisation led me to delve deeper into the principles of agile methodologies and team dynamics, fuelling my desire to pursue a career as a Scrum Master, Agile Coach, or Support Engineer.
 
@@ -37,9 +37,6 @@ Additionally, my background in education has honed my skills and passion for pro
       </td>
       <td align="center">
         Codewars
-      </td>
-      <td align="center">
-        CodePen
       </td>
     </tr>
   </table>
