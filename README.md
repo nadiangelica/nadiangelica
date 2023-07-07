@@ -104,10 +104,11 @@ At Makers, I have studied software development by independently learning resourc
 - BSc (Hons) Early Childhood Education
 
 ## <a name="hobbies">🏆 Hobbies
--Reading Books (Fiction and Non-Fiction)
--Playing Piano
--Watching Documentaries
--Weightlifting
+- Reading Books (Fiction and Non-Fiction)
+- Playing Piano
+- Watching Documentaries
+- Weightlifting
+
 <!--
 **nadiangelica/nadiangelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
