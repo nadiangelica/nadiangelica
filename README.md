@@ -87,7 +87,7 @@ _Reception Teacher_
 <br>
 _Reception Teacher_
 
--Regularly marking, recording, assessing and reporting on the attainment and progress of pupils through observations and the school’s assessment processes to plan next steps for learning.
+- Regularly marking, recording, assessing and reporting on the attainment and progress of pupils through observations and the school’s assessment processes to plan next steps for learning.
 - Always making sure that, when possible, the planning for the seven areas of learning are linked to Science.
 - Creating an engaging and challenging indoor and outdoor learning environment that always complies with the characteristics of effective
 learning outlined in the EYFS curriculum.
@@ -97,8 +97,41 @@ about music, rhythms, songs around the world.
 - Participating in the school’s performance management programme and development plan.
 
 
+**Byron Court Primary School** (January 2019 - July 2019)
+<br>
+_Year 1 Teaching Assistant_
 
+- Co-taught Phonics sessions to increase children’s segmenting and blending skills.
+- Often working one-to-one supporting a child with additional needs.
+- Guided reading sessions with different ability groups of children – asking effective questions to increase their inference and comprehension skills.
+- Led intervention sessions with the children to support with Maths, Reading and Literacy.
+- Marking homework books, changing books and setting new homework tasks.
 
+**Randolf Beresford Early Years Centre** (October 2018 - December 2018)
+<br>
+_Early Years Teaching Assistant_
+
+- Supporting the Room Leader and Key workers of the classroom.
+- Paying attention and supporting children’s well-being and development.
+
+**Miniversity** (September 2017 - July 2018)
+<br>
+_Early Years English Teacher_
+
+- Working as an English teacher for two groups, of 14 children each, under 3 years old.
+- Planning and carrying out various indoor and outdoor activities.
+- Meeting regularly with parents. 
+- Planning a stimulating and rewarding variety of lessons.
+  
+**Argiri-Laimou** (April 2015 - July 2017)
+<br>
+_Early Years Teacher_
+- Teaching assistant during my apprenticeship for under 4 year children.
+- Teacher for under 2 years old class (Nov 2015-July 2016).
+- Teacher for 3 years old class (Aug 2015-July 2017).
+- Opening and closing duties, such as opening the nursery and greeting parents for a year.
+- Creating children’s growth portfolios.
+  
 ## <a name="education">📚 Education</a>
 
 #### Scrum Alliance (June 2023)
