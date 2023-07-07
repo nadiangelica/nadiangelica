@@ -25,7 +25,7 @@ Additionally, my background in education has honed my skills and passion for pro
 <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/nadia-kochilas-91495b131"><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/nadia-kochilas"><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
       </td>
       <td align="center">
         <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
