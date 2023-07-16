@@ -70,7 +70,18 @@ Additionally, my background in education has honed my skills and passion for pro
 	<code> Cypress <img height="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress" /></code>
 </div>
 
-## <a name="experience">💼 Work Experience</a>
+## <a name="experience">💼 Experience</a>
+
+**Makers Academy** (November 2022 - March 2023)
+<br>
+_Full-Stack Software Developer Student_
+
+At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities:
+- Self organising my learning process, time-boxing tasks to learn efficiently.
+- Use Agile methodologies to work effectively in a team: daily pair programming, stand-ups, and sprint planning for bigger projects.
+- Holistically collaborate with the other team members, using GitHub, code reviews and constructive feedback session with respectful communication.
+- Understand project requirements and user stories, define MVP’s features, break features in smaller tasks to easily accom- plish them.
+- Apply design patterns and coding best practices, such as, TDD, OOP principles to create clear, simple code and well-tested applications.
 
 **Bedfont Primary School** (September 2020 - August 2022)
 <br>
@@ -137,12 +148,7 @@ _Early Years Teacher_
 #### Scrum Alliance (June 2023)
 - Certified Scrum Master Certification (CSM)
 #### Makers Academy (November 2022 - March 2023)
-At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities:
-- Self organising my learning process, time-boxing tasks to learn efficiently.
-- Use Agile methodologies to work effectively in a team: daily pair programming, stand-ups, and sprint planning for bigger projects.
-- Holistically collaborate with the other team members, using GitHub, code reviews and constructive feedback session with respectful communication.
-- Understand project requirements and user stories, define MVP’s features, break features in smaller tasks to easily accom- plish them.
-- Apply design patterns and coding best practices, such as, TDD, OOP principles to create clear, simple code and well-tested applications.
+- Full-Stack Software Developer Graduate
 
 #### University of West Attica (October 2010  - November 2015 )
 - BSc (Hons) Early Childhood Education
