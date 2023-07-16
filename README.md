@@ -146,7 +146,7 @@ _Early Years Teacher_
 ## <a name="education">📚 Education</a>
 
 #### Scrum Alliance (June 2023)
--Certified Scrum Master Certification (CSM)
+- Certified Scrum Master Certification (CSM)
 
 I attended a comprehensive two-day in-person workshop centred around Scrum values, principles, and practices. The workshop provided an immersive learning experience through interactive exercises, engaging lectures, and valuable participant dialogues.
 
