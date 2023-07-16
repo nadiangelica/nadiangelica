@@ -147,6 +147,7 @@ _Early Years Teacher_
 
 #### Scrum Alliance (June 2023)
 -Certified Scrum Master Certification (CSM)
+
 I attended a comprehensive two-day in-person workshop centred around Scrum values, principles, and practices. The workshop provided an immersive learning experience through interactive exercises, engaging lectures, and valuable participant dialogues.
 
 Upon completing the workshop, I successfully passed an online test conducted by the Scrum Alliance, earning my Scrum Alliance certification. This certification validates my profound understanding and competency in applying Scrum methodologies.
