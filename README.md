@@ -76,7 +76,7 @@ Additionally, my background in education has honed my skills and passion for pro
 <br>
 _Full-Stack Software Developer Student_
 
-At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming sessions. As a student, I had the following responsibilities:
+At Makers, I have studied software development by independently learning resource materials, attending workshops and daily pair programming/group sessions. As a student, I had the following responsibilities:
 - Self organising my learning process, time-boxing tasks to learn efficiently.
 - Use Agile methodologies to work effectively in a team: daily pair programming, stand-ups, and sprint planning for bigger projects.
 - Holistically collaborate with the other team members, using GitHub, code reviews and constructive feedback session with respectful communication.
@@ -146,7 +146,11 @@ _Early Years Teacher_
 ## <a name="education">📚 Education</a>
 
 #### Scrum Alliance (June 2023)
-- Certified Scrum Master Certification (CSM)
+-Certified Scrum Master Certification (CSM)
+I attended a comprehensive two-day in-person workshop centred around Scrum values, principles, and practices. The workshop provided an immersive learning experience through interactive exercises, engaging lectures, and valuable participant dialogues.
+
+Upon completing the workshop, I successfully passed an online test conducted by the Scrum Alliance, earning my Scrum Alliance certification. This certification validates my profound understanding and competency in applying Scrum methodologies.
+
 #### Makers Academy (November 2022 - March 2023)
 - Full-Stack Software Developer Graduate
 
