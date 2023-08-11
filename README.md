@@ -5,15 +5,11 @@
 <br>
 
 ## <a name="about-me">About me!</a>
-With a strong background in Early Childhood Education and a genuine passion for learning, I embarked on a transformative journey that led me to the world of software development. For seven years, I dedicated myself to teaching and shaping young minds. However, driven by a desire for personal growth and a thirst for new challenges, I decided to explore the exciting realm of coding. I enrolled in a renowned bootcamp, Makers Academy, where I immersed myself in various programming languages, frameworks, and tech tools. The experience allowed me to combine my love for learning with my newfound technical skills, paving the way for an exciting future.
-
-As a former teacher, I naturally gravitated towards supporting my fellow bootcamp participants, finding immense satisfaction in helping others overcome challenges and sharing knowledge. Witnessing the growth and progress of my peers fuelled my passion for team dynamics and inspired me to explore roles where I could contribute to the success of a tech team. This realisation led me to delve deeper into the principles of agile methodologies and team dynamics, fuelling my desire to pursue a career as a Scrum Master, Agile Coach, or Support Engineer.
-
-I am eager to bring my experience as an educator, my understanding of software development, and my passion for fostering collaborative environments to support tech teams in reaching their full potential. I firmly believe that by cultivating an atmosphere of trust, open communication, and shared goals, we can drive innovation, efficiency, and collective growth in the software development industry. Moreover, my passion for building software solutions and contributing to the development of important products further fuels my enthusiasm for debugging and testing, ensuring that systems work optimally and meet the needs of internal stakeholders and clients. I am also keen on exploring low-code tools to enhance existing systems and improve efficiency.
-
-Additionally, my background in education has honed my skills and passion for problem-solving. As an educator, I naturally developed a problem-solving mindset, enabling me to identify obstacles, analyse them, and find effective solutions. This, combined with my technical knowledge, empowers me to approach challenges in software development with a unique perspective and a determination to find innovative solutions.
-
-
+Certified Scrum Master and Full-Stack Software Developer graduate from the renowned Makers Academy Bootcamp. Despite
+my focus on coding, I realised my true calling lies in guiding teams towards greater synergy and efficiency as a Scrum Master.
+My journey as a software developer uniquely equips me to bridge the gap between technical complexities and stakeholder
+needs, enabling effective communication and informed decision-making as a Scrum Master. Leveraging my background in
+teaching, I’ve cultivated exceptional skills in communication, collaboration, and team management.
 
 ## <a name="links">🌐 Links</a>
 
