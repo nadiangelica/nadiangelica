@@ -5,7 +5,7 @@
 <br>
 
 ## <a name="about-me">About me!</a>
-Full-Stack Software Developer graduate from the renowned Makers Academy Bootcamp and Certified Scrum Master. In the course of my studies, I discovered a passion for leading teams and orchestrating productive stand-ups, finding that I thrived in the collaborative, iterative nature of Agile methodologies. My background in teaching equips me with unique skills in communication, collaboration, and team management. I aim to leverage these skills, along with my new-found understanding of Agile practices, to foster an effective and dynamic development environment.
+As a Full-Stack Software Developer with a Makers Academy Bootcamp background and Certified Scrum Master, I've developed a strong passion for leading software development teams. Proficient in Agile methodologies, I thrive in collaborative, iterative environments. My teaching background equips me with effective communication and team management skills. I'm eager to leverage this unique skill set in software development roles to foster dynamic and efficient development environments.
 
 ## <a name="links">🌐 Links</a>
 
