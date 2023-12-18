@@ -6,7 +6,7 @@
 
 ## <a name="about-me">About me!</a>
 
-I'm a Software Engineer, proud graduate of Makers Academy Bootcamp, with a solid foundation in programming and practical skills for the tech industry. After teaching for years, I felt a strong desire to shift into coding, driven by the significant impact of software on our daily lives. This transition sparked my passion for coding, and I'm thrilled to contribute to this transformative field. Alongside, I hold the title of a Certified Scrum Master, underscoring my ability to lead and collaborate effectively in software development
+I'm a Software Engineer, proud graduate of Makers Academy Bootcamp, with a solid foundation in programming and practical skills for the tech industry. After teaching for years, I felt a strong desire to shift into coding, driven by the significant impact of software on our daily lives. This transition sparked my passion for coding, and I'm thrilled to contribute to this transformative field. Alongside, I hold the title of a Certified Scrum Master, underscoring my ability to lead and collaborate effectively in software development.
 
 ## <a name="links">🌐 Links</a>
 
