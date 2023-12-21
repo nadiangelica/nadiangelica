@@ -110,31 +110,6 @@ _Year 1 Teaching Assistant_
 - Guided reading sessions with children of various proficiency levels – asking effective questions to enhance their inference and comprehension skills.
 - Led intervention sessions with the children to support with Maths, Reading and Literacy.
 - Marking homework books, changing books and setting new homework tasks.
-
-**Randolf Beresford Early Years Centre** (October 2018 - December 2018)
-<br>
-_Early Years Teaching Assistant_
-
-- Supporting the Room Leader and Key workers of the classroom.
-- Paying attention and supporting children’s well-being and development.
-
-**Miniversity Nursery** (September 2017 - July 2018)
-<br>
-_Early Years English Teacher_
-
-- Working as an English teacher for two groups, of 14 children each, under 3 years old.
-- Planning and carrying out various indoor and outdoor activities.
-- Meeting regularly with parents. 
-- Planning a stimulating and rewarding variety of lessons.
-  
-**Argiri-Laimou Nursery** (April 2015 - July 2017)
-<br>
-_Early Years Teacher_
-- Teaching assistant during my apprenticeship for under 4 year children.
-- Teacher for under 2 years old class (Nov 2015-July 2016).
-- Teacher for 3 years old class (Aug 2015-July 2017).
-- Opening and closing duties, such as opening the nursery and greeting parents for a year.
-- Creating children’s growth portfolios.
   
 ## <a name="education">📚 Education</a>
 
