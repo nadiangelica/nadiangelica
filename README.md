@@ -6,8 +6,7 @@
 
 ## <a name="about-me">About me!</a>
 
-I'm a Software Engineer, proud graduate of Makers Academy Bootcamp, with a solid foundation in programming and practical skills for the tech industry. After teaching for years, I felt a strong desire to shift into coding, driven by the significant impact of software on our daily lives. This transition sparked my passion for coding, and I'm thrilled to contribute to this transformative field. Alongside, I hold the title of a Certified Scrum Master, underscoring my ability to lead and collaborate effectively in software development.
-
+Hey there! I'm currently diving into Quality Engineering at Makers Academy Bootcamp after completing their Software Engineering program. With a Certified Scrum Master badge from the Scrum Alliance, I'm all about efficient teamwork. With a background in early childhood education and a transition into tech, I'm deeply committed to continuous learning and leveraging technology to create positive change. I'm currently immersing myself in various testing methodologies, ensuring software reliability and security, while also exploring ways to enhance user experience and performance. Let's collaborate and craft innovative solutions together!
 ## <a name="links">🌐 Links</a>
 
 <table>
