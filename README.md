@@ -64,6 +64,11 @@ Hey there! I'm currently diving into Quality Engineering at Makers Academy Bootc
 
 ## <a name="experience">💼 Experience</a>
 
+**Makers Academy** (March 2024 - )
+<br>
+_Software Engineering Student_
+
+
 **Makers Academy** (November 2022 - March 2023)
 <br>
 _Full-Stack Software Developer Student_
