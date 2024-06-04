@@ -6,7 +6,7 @@
 
 ## <a name="about-me">About me!</a>
 
-Hey there! I'm currently diving into Quality Engineering at Makers Academy Bootcamp after completing their Software Engineering program. With a Certified Scrum Master badge from the Scrum Alliance, I'm all about efficient teamwork. With a background in early childhood education and a transition into tech, I'm deeply committed to continuous learning and leveraging technology to create positive change. I'm currently immersing myself in various testing methodologies, ensuring software reliability and security, while also exploring ways to enhance user experience and performance. Let's collaborate and craft innovative solutions together!
+Hey there! I have recently graduated Quality Engineering at Makers Academy Bootcamp after completing their Software Engineering program. With a Certified Scrum Master badge from the Scrum Alliance, I'm all about efficient teamwork. With a background in early childhood education and a transition into tech, I'm deeply committed to continuous learning and leveraging technology to create positive change. I'm currently immersing myself in various testing methodologies, ensuring software reliability and security, while also exploring ways to enhance user experience and performance.
 ## <a name="links">🌐 Links</a>
 
 <table>
