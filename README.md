@@ -65,9 +65,9 @@ Hey there! I have recently graduated Quality Engineering at Makers Academy Bootc
 
 ## <a name="experience">💼 Experience</a>
 
-**Makers Academy** (March 2024 - )
+**Makers Academy** (March 2024 - May 2024 )
 <br>
-_Software Engineering Student_
+_Quality Engineering Student_
 
 
 **Makers Academy** (November 2022 - March 2023)
