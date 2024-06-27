@@ -70,6 +70,11 @@ Hey there! I have recently graduated Quality Engineering at Makers Academy Bootc
 <br>
 _Quality Engineering Student_
 
+**Hi Tech-Plus Recruitment Agency- Testing Work Experience** (Jan 2024 - Feb 2024 )
+<br>
+_ I took part in the work experience remote program of the Hi Tech-Plus recruitment agency. During the 2 months of the program I gained proficiency in Manual Testing. Specifically:					
+Unit, Integration, Compatibility, Functional and Sanity Testing
+_
 
 **Makers Academy** (November 2022 - March 2023)
 <br>
